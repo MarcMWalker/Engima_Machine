@@ -39,12 +39,10 @@ int main(){
 			Message.change_rotors(Message.rotor_pos_1, Message.rotor_pos_2, Message.rotor_pos_3, Message.rotor_1, Message.rotor_2, Message.rotor_3, Message.original_rotor_1, Message.original_rotor_2, Message.original_rotor_3);
 			break;
 		}
-
 		case 'D':
 		{
 			Message.decrypt_message(Message.the_message, Message.rotor_1, Message.rotor_2, Message.rotor_3, Message.rotor_pos_1, Message.rotor_pos_2, Message.rotor_pos_3, Message.original_rotor_1, Message.original_rotor_2, Message.original_rotor_3);
 			break;
-
 		}
 		case 'Q':
 		{
