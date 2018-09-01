@@ -1,20 +1,11 @@
 #include "stdafx.h"
-#include <iostream>
-#include <string>
 #include "Enigma_Cipher.h"
-using std::string;
-using std::cout;
-using std::cin;
-using std::endl;
 
 int main(){
 
 	Enigma_Cipher Message;
 
 	while (Message.quit != true) {
-		cout << Message.rotor_1 << endl;
-		cout << Message.rotor_2 << endl;
-		cout << Message.rotor_3 << endl;
 		Message.main_menu(Message.the_message, Message.rotor_pos_1, Message.rotor_pos_2, Message.rotor_pos_3, Message.letter);
 		Message.letter = Message.letter_to_uppercase();
 

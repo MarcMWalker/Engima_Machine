@@ -23,6 +23,7 @@ public:
 	const string original_rotor_1{ "CTr9Y+k!_(LlzSn6Bt3DdGf^Js=q1I o0NUj8cE7&g)HiOeRw2WAbQ$pV*h-%xyXF?Z5PMuvma4K" };
 	const string original_rotor_2{ "a+?A3uNfQTKnVgD$F6P^yw1kB9Cqs)Hcl!-MRdZ%x5*t8Lp0S7vr=eIJhzjGW_X&i4m 2O(EUboY" };
 	const string original_rotor_3{ "EG)sQn&IfRJ +cp%?m(iPdgb!wlqzLHSW-xAK54v3aFBrDyUet9o18kMVYj^Th$*7OXZ=26_0NCu" };
+	
 	string rotor_1{ "CTr9Y+k!_(LlzSn6Bt3DdGf^Js=q1I o0NUj8cE7&g)HiOeRw2WAbQ$pV*h-%xyXF?Z5PMuvma4K" };
 	string rotor_2{ "a+?A3uNfQTKnVgD$F6P^yw1kB9Cqs)Hcl!-MRdZ%x5*t8Lp0S7vr=eIJhzjGW_X&i4m 2O(EUboY" };
 	string rotor_3{ "EG)sQn&IfRJ +cp%?m(iPdgb!wlqzLHSW-xAK54v3aFBrDyUet9o18kMVYj^Th$*7OXZ=26_0NCu" };
