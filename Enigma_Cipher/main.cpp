@@ -3,7 +3,7 @@
 
 int main(){
 
-	Enigma_Cipher Message;
+	Enigma_Cipher Message{};
 
 	while (Message.quit != true) {
 		Message.main_menu(Message.the_message, Message.rotor_pos_1, Message.rotor_pos_2, Message.rotor_pos_3, Message.letter);
